@@ -1,0 +1,13 @@
+﻿venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.sqlserver.bak
+cus.pbix
+update_proj_files.py
+update_proj_for_sql_server.py
