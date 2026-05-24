@@ -466,20 +466,29 @@ The project successfully demonstrates:
 
 ## Screenshots
 
-Add dashboard screenshots here:
+### Executive Summary
 
 ![Executive Summary](screenshots/executive_summary.png)
 
+### Churn Analysis
+
 ![Churn Analysis](screenshots/churn_analysis.png)
+
+### Customer Profile
 
 ![Customer Profile](screenshots/customer_profile.png)
 
+### Risk Analysis
+
 ![Risk Analysis](screenshots/risk_analysis.png)
+
+### Transactions & Fraud Analysis
 
 ![Transactions Fraud](screenshots/transactions_fraud.png)
 
-![Segmentation Insights](screenshots/segmentation_insights.png)
+### Segmentation Insights
 
+![Segmentation Insights](screenshots/segmentation_insights.png)
 
 ## Future Enhancements
 
