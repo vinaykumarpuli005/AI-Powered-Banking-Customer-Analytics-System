@@ -468,7 +468,6 @@ The project successfully demonstrates:
 
 Add dashboard screenshots here:
 
-```md
 ![Executive Summary](screenshots/executive_summary.png)
 
 ![Churn Analysis](screenshots/churn_analysis.png)
@@ -480,7 +479,7 @@ Add dashboard screenshots here:
 ![Transactions Fraud](screenshots/transactions_fraud.png)
 
 ![Segmentation Insights](screenshots/segmentation_insights.png)
-```
+
 
 ## Future Enhancements
 
