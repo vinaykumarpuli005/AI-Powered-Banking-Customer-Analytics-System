@@ -1,5 +1,5 @@
 ﻿# AI-Powered Banking Customer Analytics System
-
+ 
 An end-to-end banking analytics project that uses Python, SQL Server, Machine Learning, Deep Learning, Streamlit, and Power BI to analyze customer behavior, predict churn risk, detect suspicious transactions, segment customers, and generate business insights.
 
 ## Project Overview
